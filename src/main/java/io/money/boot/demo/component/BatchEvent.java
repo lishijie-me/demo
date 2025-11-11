@@ -6,12 +6,10 @@ import org.slf4j.LoggerFactory;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
-import java.time.LocalDateTime;
-
 /**
  * @author lishijie-me
  * {@code @date} 2025/11/9 星期日 19:14:10
- * {@code @description} BatchController
+ * {@code @description} BatchEvent
  */
 @Component
 public class BatchEvent {
